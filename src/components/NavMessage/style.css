@@ -1,0 +1,18 @@
+.navbar .correct{
+    animation: .4s correct;
+}
+
+.navbar .wrong{
+    animation: .4s wrong;
+}
+
+@keyframes correct{
+    0% {color: white;}
+    50% {color: yellow;}
+    100% {color: green;}
+}
+@keyframes wrong{
+    0% {color: white;}
+    50% {color: yellow;}
+    100% {color: red;}
+}

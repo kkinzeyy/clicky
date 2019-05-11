@@ -1,0 +1,8 @@
+.footer{
+    align-content: center;
+    color: gray;
+    overflow: auto;
+    height: 125px;
+    padding: 8px;
+    font-weight: 500;
+}

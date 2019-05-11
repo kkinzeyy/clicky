@@ -1,0 +1,72 @@
+[{
+    "id": 1,
+    "image": "/assets/images/busterBluth.jpg",
+    "clicked": false
+
+},
+{
+    "id": 2,
+    "image": "/assets/images/georgeBluth.jpg",
+    "clicked": false
+
+},
+{
+    "id": 3,
+    "image": "/assets/images/gmb2.jpg",
+    "clicked": false
+
+},
+{
+    "id": 4,
+    "image": "/assets/images/gobBluth.jpg",
+    "clicked": false
+
+},
+{
+    "id": 5,
+    "image": "/assets/images/lucilleBluth.jpg",
+    "clicked": false
+
+},
+{
+    "id": 6,
+    "image": "/assets/images/oscarBluth.png",
+    "clicked": false
+
+},
+{
+    "id": 7,
+    "image": "/assets/images/lindsayBluth.jpg",
+    "clicked": false
+
+},
+{
+    "id": 8,
+    "image": "/assets/images/lupe.png",
+    "clicked": false
+
+},
+{
+    "id": 9,
+    "image": "/assets/images/tobiasFunke.jpg",
+    "clicked": false
+
+},
+{
+    "id": 10,
+    "image": "/assets/images/barryZuckerkorn.jpeg",
+    "clicked": false
+
+},
+{
+    "id": 11,
+    "image": "/assets/images/michaelBluth.png",
+    "clicked": false
+
+},
+{
+    "id": 12,
+    "image": "/assets/images/tw.jpg",
+    "clicked": false
+
+}]
